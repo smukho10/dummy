@@ -3,3 +3,6 @@ this is just a random file and there are some inputs
 okay there are some file changes now - let me introduce you to claude
 
 so this is to get this knee deep into trouble
+
+
+hmm, so i will add some more commit s to make the older commit reallllly old
